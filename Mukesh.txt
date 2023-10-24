@@ -1,0 +1,2 @@
+Hi this is Sai Mukesh from the capgemini.
+the batch of .Net Core is different from the all of the other batchs.
